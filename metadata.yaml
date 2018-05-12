@@ -1,0 +1,38 @@
+_repo: Legends-of-Saints--amp--SinnersCollected-and-Translated-from-the-Irish_45910
+_version: 0.1.0
+alternative_title: Legends of Saints and Sinners. Collected and Translated from the
+  Irish
+contributor:
+  compiler:
+    agent_name: Hyde, Douglas
+    birthdate: 1860
+    deathdate: 1949
+    gutenberg_agent_id: '36019'
+    url: http://www.gutenberg.org/2009/agents/36019
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_Hyde
+  illustrator:
+    agent_name: Nisbet, Noel L. (Noel Laura)
+    alias: Nisbet, Noel Laura
+    birthdate: 1887
+    deathdate: 1956
+    gutenberg_agent_id: '34069'
+    url: http://www.gutenberg.org/2009/agents/34069
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2014-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Ireland'
+- !lcsh 'Tales -- Ireland'
+- !lcc 'PB'
+- !lcsh 'Legends -- Ireland'
+title: Legends of Saints & Sinners. Collected and Translated from the Irish
+url: http://www.gutenberg.org/ebooks/45910
